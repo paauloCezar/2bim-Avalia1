@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Paulo Cézar Mendonça Molena
 RA: 2026108305
-URL: https://
+URL: https://https://2bim-avalia1-01r.pages.dev/
